@@ -124,7 +124,7 @@ html{
 }
 .who-title p , .product-title p{
     font-size: clamp(0.9375rem, 0.8523rem + 0.4545vw, 1.25rem);  
-    padding: 0px 80px;
+   
 }
 .who-card{
 padding: 35px;
