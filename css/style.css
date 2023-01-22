@@ -89,7 +89,7 @@ html{
     font-weight: bold;
     font-size: clamp(1.25rem, 0.8068rem + 2.3636vw, 2.875rem);  
     line-height: 45px;
-    padding-left: 88px;
+   
 }
 .hero-info p {
     height: 120px;
