@@ -356,7 +356,9 @@ footer{
 .blog-section-month
 {
     border-left:1px solid #373737 ;
-    border-right:1px solid #373737 ;
-
+    border-right:1px solid #373737 
+}
+#share-btn:active{
+    color:#CFA98F;
 }
 
