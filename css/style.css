@@ -87,9 +87,7 @@ html{
 }
 .hero-info h2{
     font-weight: bold;
-    font-size: clamp(1.25rem, 0.8068rem + 2.3636vw, 2.875rem);  
-    line-height: 45px;
-   
+    font-size: clamp(1.1875rem, 0.608rem + 3.0909vw, 3.3125rem);
 }
 .hero-info p {
     height: 120px;
