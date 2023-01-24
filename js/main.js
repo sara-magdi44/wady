@@ -30,7 +30,8 @@ function Copy() {
   dummy.select();
   document.execCommand('copy');
   document.body.removeChild(dummy);
- // alert("تم نسخ الرابط");
-   document.getElementById("share-btn").innerHTML ="تم نسخ الرابط";
+    
+ // alert("تم نسخ الرابط"); //if you want to alert
+ // document.getElementById("share-btn").innerHTML ="تم نسخ الرابط"; //if you want to change the text 
 
 }
