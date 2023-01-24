@@ -31,4 +31,6 @@ function Copy() {
   document.execCommand('copy');
   document.body.removeChild(dummy);
  // alert("تم نسخ الرابط");
+   document.getElementById("share-btn").innerHTML ="تم نسخ الرابط";
+
 }
